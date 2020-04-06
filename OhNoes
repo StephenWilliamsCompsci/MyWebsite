@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Challenge: Colorful creature"</title>
+        <style>
+            body{
+                background-color: rgb(14, 235, 224);
+            }
+            p{
+                color: rgb(138, 77, 138);
+            }
+            h1{
+                color: rgb(247, 60, 27);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        <img src="https://www.kasandbox.org/programming-images/creatures/OhNoes.png">
+        <p>The <em>Ohnoes</em> is awesome because <strong>it tells me everything I do wrong</strong>.</p>
+        
+    </body>
+</html>
